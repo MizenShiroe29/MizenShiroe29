@@ -23,7 +23,3 @@
 <p align="center">  <strong>- ⛱️ Outdoors  </strong></p>
 <p align="center">  <strong>- 🐈 Cats </strong></p>
 <p align="center">  <strong>- 🥡 Food </strong></p>
-
- <a href="https://linkedin.com/in/micheal-white/" target="blank"> 
- <img align="center" src="https://resi.ze-robot.com/dl/le/let's-go-home-by-seerlight-2560%C3%971440.jpg" alt="micheal-white/" height="10" width="1100" />
- </a>
